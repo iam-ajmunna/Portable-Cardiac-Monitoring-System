@@ -21,3 +21,5 @@
     Select the desired board series: STM32F103Cxxx \
     Select the board. \
   > This instructions are taken from [**Autodesk Instructables**](https://www.instructables.com/Getting-Started-With-Stm32-Using-Arduino-IDE/)
+
+  > Follow this Link for visual instructions [**ST Community**](https://community.st.com/t5/stm32-mcus/how-to-program-and-debug-the-stm32-using-the-arduino-ide/ta-p/608514)
