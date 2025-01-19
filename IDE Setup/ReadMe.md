@@ -39,5 +39,6 @@
       - Adafruit_GFX_Library
       - Adafruit_SSD1306
       - ssd1306
-  
+
+   > To Install Library in ArduinoIDE Go To Tools -> Manage Library -> 'Search By Name'
 
