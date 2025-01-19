@@ -6,7 +6,7 @@
     - ***Done***
 
 # Set Libraries on ArduinoIDE
-- For STM32F103C8T6 Microprocessor
+- <h3>For STM32F103C8T6 Microprocessor</h3>
   - Launch Arduino IDE. Click on the "File" menu and then "Preferences".\
       The "Preferences" dialog will open, then add the following link to the "Additional Boards Managers URLs" field:
     ***"http://dan.drown.org/stm32duino/package_STM32duino_index.json"***. 
@@ -23,3 +23,21 @@
   > This instructions are taken from [**Autodesk Instructables**](https://www.instructables.com/Getting-Started-With-Stm32-Using-Arduino-IDE/)
 
   > Follow this Link for visual instructions [**ST Community**](https://community.st.com/t5/stm32-mcus/how-to-program-and-debug-the-stm32-using-the-arduino-ide/ta-p/608514)
+
+
+- <h3>For Sensors Libraries</h3>
+
+  - ***For Hear Rate and SpO2 Sensor (MAX30102)***
+      - SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library
+      - MAX30102
+      - DFRobot MAX30102 Library
+
+  - ***For ECG Sensor (AD8232)***
+      - Adafruit AD8232 Library
+
+  - ***For Display on OLED I2C***
+      - Adafruit_GFX_Library
+      - Adafruit_SSD1306
+      - ssd1306
+  
+
