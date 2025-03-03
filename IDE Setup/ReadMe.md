@@ -9,7 +9,7 @@
 - <h3>For STM32F103C8T6 Microprocessor</h3>
   - Launch Arduino IDE. Click on the "File" menu and then "Preferences".\
       The "Preferences" dialog will open, then add the following link to the "Additional Boards Managers URLs" field:
-    **"(https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json)"**. 
+   "(https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json)". 
     
     Click "Ok"
   - Click on the "Tools" menu and then "Boards > Boards Manager." 
